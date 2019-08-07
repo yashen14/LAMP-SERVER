@@ -1,0 +1,9 @@
+Error when installing Apache 2.4 on windows - not logged in as administrator 
+
+You may forgot to run as an administrator which is what happened to me felt the pie on my face lol.
+
+Run cmd commands to move
+
+cd \ - goes to your c drive 
+ cd "directory" + "/" or "\" not sure but that plus the next directory will transpose you to the next location in your cmd drive.
+ 
